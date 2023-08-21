@@ -37,7 +37,6 @@ document.getElementById("alerta1").style.display = "none";
 
   if (!fallo) {
     window.location.href = "index.html";
-    e.preventDefault();
     
   } 
   }
